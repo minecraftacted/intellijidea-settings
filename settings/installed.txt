@@ -1,0 +1,8 @@
+com.intellij.ja
+club.nutsoft.Github3Theme
+some.awesome
+com.vexus2.intellij.openingithub
+com.demonwav.minecraft-dev
+com.github.shiraji.findpullrequest
+zielu.gittoolbox
+mobi.hsz.idea.gitignore
